@@ -150,8 +150,6 @@ Running the full analysis needs a machine with enough memory for Spark. A free C
 ## Author
 
 **Nandini Sharma**
-MSc Economics (2025–27), Symbiosis School of Economics, Pune
-GitHub: [@your-username](https://github.com/your-username)
 
 ## License
 
