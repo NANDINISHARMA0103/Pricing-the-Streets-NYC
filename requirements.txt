@@ -1,0 +1,12 @@
+pandas
+numpy
+duckdb
+pyarrow
+pyspark
+scipy
+statsmodels
+scikit-learn
+matplotlib
+geopandas
+shapely
+holidays

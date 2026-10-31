@@ -1,0 +1,16 @@
+item,rows_failing_rule_any,rows_dropped_first_rule
+TOTAL rows in,167858646,
+TOTAL rows kept,157891025,
+r01_missing_key_fields,0,0
+r02_location_id_not_in_zone_lookup,0,0
+r03_malformed_timestamp_outside_study_window,670,670
+r04_pickup_not_in_file_month,2828,2162
+r05_dropoff_not_after_pickup,607418,607413
+r06_duration_over_max,1140,998
+r07_zero_or_negative_distance,3526779,3470766
+r08_distance_over_max,7316,7110
+r09_fare_negative,4214194,3836525
+r10_fare_over_max,2170,880
+r11_negative_charge_or_total,4230074,11036
+r12_passenger_count_out_of_range,2009016,1948290
+r13_implausible_speed,95446,81771
